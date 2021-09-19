@@ -14,7 +14,9 @@
   "author": "José López G <antares069@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "moment": "^2.29.1"
+    "eslint": "^7.32.0",
+    "moment": "^2.29.1",
+    "webpack": "^5.53.0"
   },
   "devDependencies": {
     "date-fns": "^2.24.0"
